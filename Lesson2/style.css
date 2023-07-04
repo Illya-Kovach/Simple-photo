@@ -1,0 +1,39 @@
+p {
+    color:red;
+}
+h1 {
+    color:blue;
+}
+img  {
+    width:300px;
+}
+div {
+    width: 200px;
+    height: 200px;
+    background-color: lime;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.kvadrat {
+     width: 200px;
+    height: 200px;
+    background-color: brown;
+    border: 2px solid black;
+    border-radius: 100px;
+    margin-bottom: 500px;
+    margin-left: 300px
+}
+.text {
+    background-color: pink;
+    padding-top: 80px
+}
+a {
+    background-color: aqua;
+    text-decoration: none;
+    border:5px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

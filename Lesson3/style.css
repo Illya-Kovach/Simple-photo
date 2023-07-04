@@ -1,0 +1,34 @@
+div {
+  width: 300px;
+  height: 300px;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin-bottom: 20px;
+}
+
+.kkvadrat {
+  background-color: red;
+}
+
+.skvadrat {
+  background-color: blue;
+  display: inline-block
+}
+a {
+    background-color: green;
+}
+.container {
+  background-color: grey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+  color: azure;
+}
+
+/* Селектор нащадків - вибере всі теги <p> всередині елементу з класом container */
+.container p {
+  font-size: 30px;
+  background-color: rgb(97, 97, 49);
+}
